@@ -1,5 +1,5 @@
 # Sinkronisasi-Database-Adafruit-Fingerprint-Sensor-menggunakan-MQTT
-====================================================================
+
 Alat : 
 - 1 Sensor Adafruit Fingerprint sebagai pengirim
 - 1 Sensor Adafruit Fingerprint sebagai penerima
